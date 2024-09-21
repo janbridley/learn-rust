@@ -1,2 +1,5 @@
-# learn-rust
-Exercises from the rust book and relevant learning projects
+# Learning Rust
+
+[Book](https://doc.rust-lang.org/book/title-page.html)
+[Alternate](https://rust-book.cs.brown.edu)
+
