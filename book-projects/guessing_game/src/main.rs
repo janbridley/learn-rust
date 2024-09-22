@@ -12,7 +12,7 @@ fn _enter_guess() -> String {
         .expect("Failed to read line");
 
     // Conversion to i32 must be done in main to avoid continue outside loop
-    return guess;
+    return guess
 }
 
 fn main() {
